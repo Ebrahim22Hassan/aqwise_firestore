@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080950742062",
+    "project_id": "aqwisefirestore",
+    "storage_bucket": "aqwisefirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080950742062:android:6fc34b9b489340c54c13bf",
+        "android_client_info": {
+          "package_name": "com.example.aqwise_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080950742062-unfu84lcdg12iml2dc1ubonc8urlqmm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZME4zzZ-Ekqu50Bkls0xE8yNh3xfLN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080950742062-unfu84lcdg12iml2dc1ubonc8urlqmm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
